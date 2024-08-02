@@ -6,3 +6,7 @@ A ideia desse projeto é replicar a solucao utilizada no [archive-patcher](https
 
 - Tipos enumerados que em Java podem ter contrutor e comportamento
 - Classes genéricas recebendo Void como parametro
+
+# Andamento
+- [ ] Compilando
+- [ ] Cobertura de Testes
